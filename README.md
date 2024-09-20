@@ -2,6 +2,8 @@
 
 This project uses langchain with Groq LLM to implement a simple Chatbot. Langsmith is used for tracing and debugging.
 
+View Live Site [here](https://langchain-groq-chatbot.streamlit.app/)
+
 ## Chatbot Running
 ![chatbot](./screenshots/chatbot.JPG)
 
